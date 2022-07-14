@@ -1,4 +1,4 @@
-# Classification_loans
+# Credit_Worthiness_Classification
 
 The credit risk associated with two sets of loans data is modeled using two techniques:
 
